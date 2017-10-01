@@ -1,4 +1,6 @@
-# How to run this program
+# Feedreader Project - Front-End Web Development Nanodegree
+
+## How to run this program
 
 1. Download the repository found at https://github.com/patrickjbehrens/frontend-nanodegree-feedreader.
 
